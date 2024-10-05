@@ -1,0 +1,1 @@
+En este repositorio seencuentran los ejercicios 1,2 y 3 del laboratorio 3 de programación bajo plataformas abiertas. No tengo conocimientos de qué pasó, pero en cada branch además del respectivo ejercicio, se subieron otros archivos, unos de prueba que creí haber eliminado(ej1.c) y otros que si pertenecen al laboratorio.  
